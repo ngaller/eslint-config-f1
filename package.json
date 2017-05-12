@@ -1,12 +1,13 @@
 {
   "name": "eslint-config-f1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My ESLint configuration",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "nicocrm",
+  "repository": "github:nicocrm/eslint-config-f1",
   "license": "MIT",
   "dependencies": {
     "babel-eslint": "latest",
