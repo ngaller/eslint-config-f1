@@ -5,6 +5,8 @@ module.exports = {
   "plugins": [
   ],
   "rules": {
+    "no-trailing-spaces": "off",
+    "eol-last": "off",
     "no-labels": 0,
     "arrow-parens": 0,
     "comma-dangle": 0,
